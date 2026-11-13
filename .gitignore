@@ -1,0 +1,13 @@
+.pio/
+.pioenvs/
+.DS_Store
+secrets.h
+src/.secrets-*
+.device-token
+.firmware-backup.bin
+.env
+.dev.vars
+node_modules/
+worker/.wrangler/
+worker/dist/
+.backups/
